@@ -1,5 +1,5 @@
 {
-  "name": "di-container",
+  "name": "di-containerx",
   "version": "1.0.0",
   "description": "Dependency injection container module",
   "main": "index.js",
