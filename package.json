@@ -1,0 +1,34 @@
+{
+  "name": "di-container",
+  "version": "1.0.0",
+  "description": "Dependency injection container module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladpantea/di-container.git"
+  },
+  "keywords": [
+    "di",
+    "container",
+    "container",
+    "dependency",
+    "node",
+    "dependency",
+    "inversion",
+    "of",
+    "control",
+    "injection"
+  ],
+  "author": "Vlad Pantea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladpantea/di-container/issues"
+  },
+  "homepage": "https://github.com/vladpantea/di-container#readme",
+  "dependencies": {
+    "parse-fn-args": "^0.0.2"
+  }
+}
